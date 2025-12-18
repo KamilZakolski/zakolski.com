@@ -37,6 +37,6 @@ draft = false
 
 {{< tab name="Konsole" >}}
 - **Nintendo:** Game Boy Advance
-- **Nintendo:** Switch Oled
+- **Microsoft:** Xbox360
 {{< /tab >}}
 {{< /tabgroup >}}
