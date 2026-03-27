@@ -16,7 +16,7 @@ colorScheme = "auto"
 dateFormat = "2 January, 2006"
 description = "Kamil Zakolski's personal website"
 hideColorSchemeToggle = false
-info = ["Senior IT Specialist", "Student"]
+info = ["Senior IT Specialist", "B.Eng. in Computer Science"]
 keywords = "blog,developer,personal"
 maxSeeAlsoItems = 5
 rtl = false
@@ -76,7 +76,7 @@ languageName = ":poland:"
 
 [languages.pl.params]
 description = "Prywatna strona Kamila Zakolskiego"
-info = ["Starszy Specjalista IT", "Student"]
+info = ["Starszy Specjalista IT", "Inż. Informatyk"]
 keywords = "blog,deweloper,osobisty"
 
 [[languages.pl.menu.main]]
